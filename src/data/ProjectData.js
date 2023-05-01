@@ -15,8 +15,8 @@ export const ProjectList = [
 
     tech_stack: "React, Node, Express, MongoDb",
     github_url: "https://github.com/subustark/Inventory-billing-app-frontend",
-    Backend_url: "https://github.com/subustark/Inventory-Billing-Backend",
-    demo_url: "https://superb-gingersnap-f0f67b.netlify.app",
+    Backend_url: "https://github.com/subustark/Inventory-billing-app-backend",
+    demo_url: "https://incredible-biscotti-975e1d.netlify.app",
   },
   {
     img: "https://raw.githubusercontent.com/subustark/Project1/main/Project3.png",
